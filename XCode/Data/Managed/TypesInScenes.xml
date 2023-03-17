@@ -1,0 +1,147 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="AlertNotOwningFilterView" preserve="nothing"/>
+		<type fullname="AppSetup" preserve="nothing"/>
+		<type fullname="ARKitBlendShapeVisualizer" preserve="nothing"/>
+		<type fullname="ButtonExitFilterSelectionView" preserve="nothing"/>
+		<type fullname="ButtonFilterCategory" preserve="nothing"/>
+		<type fullname="ButtonFilterSelectionView" preserve="nothing"/>
+		<type fullname="ButtonFitlerModalSelectionView" preserve="nothing"/>
+		<type fullname="ButtonRemoveFilterView" preserve="nothing"/>
+		<type fullname="ButtonTimeToggleView" preserve="nothing"/>
+		<type fullname="FilterButtonsLoadingCircleView" preserve="nothing"/>
+		<type fullname="FilterLoadingCircleView" preserve="nothing"/>
+		<type fullname="FilterScrollCategoryView" preserve="nothing"/>
+		<type fullname="FilterScrollView" preserve="nothing"/>
+		<type fullname="FilterSelectionModalView" preserve="nothing"/>
+		<type fullname="FlipCameraView" preserve="nothing"/>
+		<type fullname="GeneralReferences" preserve="nothing"/>
+		<type fullname="LoaderRecordingView" preserve="nothing"/>
+		<type fullname="LocalizationText" preserve="nothing"/>
+		<type fullname="MobileBridge" preserve="nothing"/>
+		<type fullname="NatSuite.Examples.ARCam" preserve="nothing"/>
+		<type fullname="NatSuite.Examples.Components.RecordButton" preserve="nothing"/>
+		<type fullname="OutsideZoneFilterModalView" preserve="nothing"/>
+		<type fullname="Unitea.AR_FaceManagerView" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Google.XR.ARCoreExtensions">
+		<type fullname="Google.XR.ARCoreExtensions.Internal.RuntimeConfig" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="RuntimeInspector.Runtime">
+		<type fullname="RuntimeInspectorNamespace.BoundInputField" preserve="nothing"/>
+		<type fullname="RuntimeInspectorNamespace.ColorPicker" preserve="nothing"/>
+		<type fullname="RuntimeInspectorNamespace.ColorPickerAlphaSlider" preserve="nothing"/>
+		<type fullname="RuntimeInspectorNamespace.ColorWheelControl" preserve="nothing"/>
+		<type fullname="RuntimeInspectorNamespace.DraggedReferenceItem" preserve="nothing"/>
+		<type fullname="RuntimeInspectorNamespace.ObjectReferencePicker" preserve="nothing"/>
+		<type fullname="RuntimeInspectorNamespace.ObjectReferencePickerItem" preserve="nothing"/>
+		<type fullname="RuntimeInspectorNamespace.PointerEventListener" preserve="nothing"/>
+		<type fullname="RuntimeInspectorNamespace.RecycledListView" preserve="nothing"/>
+		<type fullname="RuntimeInspectorNamespace.Tooltip" preserve="nothing"/>
+		<type fullname="RuntimeInspectorNamespace.UISkin" preserve="nothing"/>
+		<type fullname="RuntimeInspectorNamespace.WindowDragHandler" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="SimpleScrollSnap">
+		<type fullname="DanielLochner.Assets.SimpleScrollSnap.SimpleScrollSnap" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Unity.Localization">
+		<type fullname="UnityEngine.Localization.Settings.LocalizationSettings" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Unity.TextMeshPro">
+		<type fullname="TMPro.TextMeshProUGUI" preserve="nothing"/>
+		<type fullname="TMPro.TMP_FontAsset" preserve="nothing"/>
+		<type fullname="TMPro.TMP_Settings" preserve="nothing"/>
+		<type fullname="TMPro.TMP_SpriteAsset" preserve="nothing"/>
+		<type fullname="TMPro.TMP_StyleSheet" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Unity.XR.ARFoundation">
+		<type fullname="UnityEngine.XR.ARFoundation.ARCameraBackground" preserve="nothing"/>
+		<type fullname="UnityEngine.XR.ARFoundation.ARCameraManager" preserve="nothing"/>
+		<type fullname="UnityEngine.XR.ARFoundation.ARFace" preserve="nothing"/>
+		<type fullname="UnityEngine.XR.ARFoundation.ARFaceManager" preserve="nothing"/>
+		<type fullname="UnityEngine.XR.ARFoundation.ARFaceMeshVisualizer" preserve="nothing"/>
+		<type fullname="UnityEngine.XR.ARFoundation.ARInputManager" preserve="nothing"/>
+		<type fullname="UnityEngine.XR.ARFoundation.ARPlane" preserve="nothing"/>
+		<type fullname="UnityEngine.XR.ARFoundation.ARPlaneManager" preserve="nothing"/>
+		<type fullname="UnityEngine.XR.ARFoundation.ARPlaneMeshVisualizer" preserve="nothing"/>
+		<type fullname="UnityEngine.XR.ARFoundation.ARPoseDriver" preserve="nothing"/>
+		<type fullname="UnityEngine.XR.ARFoundation.ARRaycastManager" preserve="nothing"/>
+		<type fullname="UnityEngine.XR.ARFoundation.ARSession" preserve="nothing"/>
+		<type fullname="UnityEngine.XR.ARFoundation.ARSessionOrigin" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Unity.XR.ARKit">
+		<type fullname="UnityEngine.XR.ARKit.ARKitLoader" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Unity.XR.Management">
+		<type fullname="UnityEngine.XR.Management.XRGeneralSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.XR.Management.XRManagerSettings" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEditor.AudioManager" preserve="nothing"/>
+		<type fullname="UnityEditor.InputManager" preserve="nothing"/>
+		<type fullname="UnityEditor.MonoManager" preserve="nothing"/>
+		<type fullname="UnityEditor.MonoScript" preserve="nothing"/>
+		<type fullname="UnityEditor.Physics2DSettings" preserve="nothing"/>
+		<type fullname="UnityEditor.PhysicsManager" preserve="nothing"/>
+		<type fullname="UnityEditor.PlayerSettings" preserve="nothing"/>
+		<type fullname="UnityEditor.TagManager" preserve="nothing"/>
+		<type fullname="UnityEditor.TimeManager" preserve="nothing"/>
+		<type fullname="UnityEditor.VFXManager" preserve="nothing"/>
+		<type fullname="UnityEngine.AudioBehaviour" preserve="nothing"/>
+		<type fullname="UnityEngine.AudioListener" preserve="nothing"/>
+		<type fullname="UnityEngine.Behaviour" preserve="nothing"/>
+		<type fullname="UnityEngine.Camera" preserve="nothing"/>
+		<type fullname="UnityEngine.Canvas" preserve="nothing"/>
+		<type fullname="UnityEngine.CanvasGroup" preserve="nothing"/>
+		<type fullname="UnityEngine.CanvasRenderer" preserve="nothing"/>
+		<type fullname="UnityEngine.Collider" preserve="nothing"/>
+		<type fullname="UnityEngine.Component" preserve="nothing"/>
+		<type fullname="UnityEngine.Cubemap" preserve="nothing"/>
+		<type fullname="UnityEngine.Font" preserve="nothing"/>
+		<type fullname="UnityEngine.GameObject" preserve="nothing"/>
+		<type fullname="UnityEngine.Light" preserve="nothing"/>
+		<type fullname="UnityEngine.LightmapSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.Material" preserve="nothing"/>
+		<type fullname="UnityEngine.Mesh" preserve="nothing"/>
+		<type fullname="UnityEngine.MeshCollider" preserve="nothing"/>
+		<type fullname="UnityEngine.MeshFilter" preserve="nothing"/>
+		<type fullname="UnityEngine.MeshRenderer" preserve="nothing"/>
+		<type fullname="UnityEngine.MonoBehaviour" preserve="nothing"/>
+		<type fullname="UnityEngine.Object" preserve="nothing"/>
+		<type fullname="UnityEngine.QualitySettings" preserve="nothing"/>
+		<type fullname="UnityEngine.RectTransform" preserve="nothing"/>
+		<type fullname="UnityEngine.Renderer" preserve="nothing"/>
+		<type fullname="UnityEngine.Rendering.GraphicsSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.RenderSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.Shader" preserve="nothing"/>
+		<type fullname="UnityEngine.Sprite" preserve="nothing"/>
+		<type fullname="UnityEngine.SpriteRenderer" preserve="nothing"/>
+		<type fullname="UnityEngine.TextAsset" preserve="nothing"/>
+		<type fullname="UnityEngine.Texture" preserve="nothing"/>
+		<type fullname="UnityEngine.Texture2D" preserve="nothing"/>
+		<type fullname="UnityEngine.Transform" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="UnityEngine.UI">
+		<type fullname="UnityEngine.EventSystems.EventSystem" preserve="nothing"/>
+		<type fullname="UnityEngine.EventSystems.EventTrigger" preserve="nothing"/>
+		<type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Button" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.CanvasScaler" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.ContentSizeFitter" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.GraphicRaycaster" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Image" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.InputField" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.LayoutElement" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Mask" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.RawImage" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.RectMask2D" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Scrollbar" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.ScrollRect" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Slider" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Text" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Toggle" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.ToggleGroup" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="nothing"/>
+	</assembly>
+</linker>
